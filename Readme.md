@@ -63,7 +63,7 @@ Each of the actions are taylored to the affordance that we defined in the space 
   - **Occurrence**: The maximum number of times this action can occur daily.
   - **Requires**: Actions that must be performed before this action.
   - **Post**: Actions that must be performed after this action.
-  - **Times**: Time constraints on when this action can be performed. The range of times and values are indicated using a 24-hour clock. (Ex. [13, 16])
+  - **Times**: Time constraints on when this action can be performed. The range of times and values are indicated using a 24-hour clock.
   - **Aliases**: Alternate names for the action the agent is taking to make them seem more lifelike. This prevents the creation of redundant actions, as "Eating lunch" and "Eating dinner" would effectively be the same thing.
 
 Once you are done, copy the JSON file in the "Assets/Task Files" directory.
